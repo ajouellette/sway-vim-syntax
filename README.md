@@ -15,7 +15,7 @@ Add modelines to your config files to define the filetype.
 `vim: filetype=sway`
 
 ### Screenshot
-
+![screenshot](http://i.imgur.com/W1n7dLD.png?1)
 
 ## Credits
 This syntax file is based off of [the one for i3wm](https://github.com/PotatoesMaster/i3-vim-syntax).
