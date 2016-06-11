@@ -5,7 +5,7 @@ config files.
 
 ## Installation
 
-Install this with your favorite plugin manager, or simply put [i3vim] in your
+Install this with your favorite plugin manager, or simply put [sway.vim] in your
 `~/.vim/syntax` directory (or `~/.config/nvim/syntax` for NeoVim)
 
 ## Usage
